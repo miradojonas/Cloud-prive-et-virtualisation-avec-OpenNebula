@@ -7,3 +7,4 @@ Package à installer sur le node
   - libvirt-clients : commandes pour administrer KVM.
   - bridge-utils : outils pour gérer les ponts réseau.
   - virtinst : outils pour créer des machines virtuelles.
+  - OpenNebula
